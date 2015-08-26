@@ -1,0 +1,10 @@
+> > > > # Register 22 | Stack 0 
+> > # Register 46 | Stack 0 
+> > > > # Register 24 | Stack 0 46 
+> > > > # Register 8 | Stack 0 46 
+> > # Register 8 | Stack 0 46 8 
+> > # Register 8 | Stack 0 46 
+> > > > > # Register 9 | Stack 0 46 
+> > # Register 0 | Stack 0 46 
+> > > > # Register 0 | Stack 0 46 
+> 

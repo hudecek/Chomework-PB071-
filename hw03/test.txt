@@ -1,0 +1,32 @@
+add 45
+sub 23
+push
+run
+add 24
+run 3
+sub 23
+push
+inc
+run
+dec
+mul 12
+div 34
+run
+push
+run
+pop
+run
+inc 34
+dec3
+sub 
+sub
+run
+mul s
+run
+inc
+add 323
+reset
+run
+quit
+
+
